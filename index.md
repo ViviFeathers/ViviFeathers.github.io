@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+My first blog!
 
-Maybe say a some things about yourself.
+Taking my third class for a Master in Statistics at NCSU!
 
-Or maybe what you plan to blog about.
+Created this blog for ST558!
