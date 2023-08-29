@@ -1,4 +1,4 @@
-I currently work as a **statistical SAS programmer** for a pharmaceutical consulting company while oversee the programming team for a clinical research study at Havard Medical School.
+I currently work as a **Statistical SAS Programmer** for a pharmaceutical consulting company while oversee the programming team for a clinical research study at Havard Medical School.
 I am also finishing up my master of statistics degree at NCSU.
 
 The programming languages that help with my daily works are:
