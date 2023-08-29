@@ -7,5 +7,6 @@ The programming languages that help with my daily works are:
 *  `R`
   
 Please check out my [linkedIn](https://www.linkedin.com/in/vivi-feathers/) page is you want to know more about me.
+I am also very responsive to [*E-Mails*](vlfeathe@ncsu.edu)!
 
 ![pic](https://github.com/ViviFeathers/ViviFeathers.github.io/assets/99553537/cb6ac26a-03f8-4397-b5d9-3af02ba7f0c7)
