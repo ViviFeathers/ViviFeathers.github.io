@@ -8,4 +8,4 @@ The programming languages that help with my daily works are:
   
 Please check out my [linkedIn](https://www.linkedin.com/in/vivi-feathers/) page is you want to know more about me.
 
-![pic](C:/NCSU/NCSU_558/HW02/pic.PNG)
+![pic](https://github.com/ViviFeathers/ViviFeathers.github.io/assets/99553537/cb6ac26a-03f8-4397-b5d9-3af02ba7f0c7)
