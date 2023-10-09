@@ -1,7 +1,7 @@
 # Some Thoughts about my MAKEUP API VIGNETTE
 
 
-## what did I do in the project and any interesting findings 
+## About what I did for the vignette and interesting findings...
 I created a makeup API vignette with the purpose of exploring how to read in data using a function created for interacting with a specific API, 
 as well as showing different types of data analyses that can be conducted on the data obtained.
 
@@ -26,5 +26,5 @@ Due to not familiar with the syntax, and those 2 software opperate differently, 
 I hope after using it more often, my R skill could catch up.
 
 ## Links... 
-My final vignette is located [here](https://github.com/ViviFeathers/558Basic/blob/main/README.html), please download this html file and read thought the functions and EAD I created.
+My final vignette is located [here](https://github.com/ViviFeathers/558Basic/blob/main/README.html), please download this html file and read thought the functions and EAD I created (the scatter plots do not show up in github because they are stored in a list, you will see them after download the html file).
 You can also look into my [repo](https://github.com/ViviFeathers/558Basic/tree/main) for more information.
