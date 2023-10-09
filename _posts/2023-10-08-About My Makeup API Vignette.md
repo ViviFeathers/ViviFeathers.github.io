@@ -26,5 +26,5 @@ Due to not familiar with the syntax, and those 2 software opperate differently, 
 I hope after using it more often, my R skill could catch up.
 
 ## Links... 
-My final vignette is located [here](https://github.com/ViviFeathers/558Basic/blob/main/README.html), please download this html file and read thought the functions and EAD I created (the scatter plots do not show up in github because they are stored in a list, you will see them after download the html file).
+My final github pages site is located [here](https://vivifeathers.github.io/558Basic/), 
 You can also look into my [repo](https://github.com/ViviFeathers/558Basic/tree/main) for more information.
