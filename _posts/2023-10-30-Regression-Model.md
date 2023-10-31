@@ -11,7 +11,7 @@ After decide our variable pool, we check the normality, center and spread of eac
 ## Step three, backward selection
 The initial model will have all the variables we processed and kept, then we use backward elimination method to reduce the variable number since this method deletes variable one by one from the full model until all remaining variables have some significant contribution to the outcome, it reduces the multicollinearity problem also resolvse the possible overfitting issue.
 
-## Step Four, check adjusted R-squared, AIC, BIC and plot residuals
+## Step four, check Adjusted R-squared, AIC, BIC and plot residuals
 Get an idea about the values of adjusted R-squared, AIC and BIC, then plot the residuals to see if the residuals follow a no-parttern distribution. If they do, the model fitting is mostly done unless we want to include more variable and investigate.
 If the residuals have certain parttern, we will include all polynomial terms as well as interaction terms into our model and do backward elimination again.
 Remember to check the values of adjusted R-squared, AIC and BIC, if they are much better than the old model, we will keep the high level terms, if they are slightly better, we might remove high level terms to avoid overfitting, also high level terms are not as easy to interpret as low level terms.
